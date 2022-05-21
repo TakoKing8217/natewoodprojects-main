@@ -1,0 +1,45 @@
+.blue-top {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  height: 80px;
+  width: 100%;
+  background-color: #6fccdb;
+}
+
+section {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  justify-self: center;
+}
+
+p {
+  display: flex;
+  align-content: center;
+}
+.centered {
+  display: flex;
+  position: absolute;
+  justify-self: center;
+  width: 80%;
+  background-color: rgb(68, 155, 176);
+  margin-top: 80px;
+  height: 400px;
+}
+
+.green {
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  margin-top: 480px;
+  background-color: green;
+  height: 400px;
+  width: 80%;
+}
+
+.greeting {
+  margin-top: 50px;
+  height: 30px;
+}
