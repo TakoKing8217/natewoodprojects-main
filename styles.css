@@ -39,7 +39,20 @@ p {
   width: 80%;
 }
 
-.greeting {
+#greeting {
   margin-top: 50px;
   height: 30px;
+}
+
+.middle-ground {
+  display: flex;
+  justify-content: center;
+}
+
+#greeting {
+  background-color: red;
+  color: white;
+  width: 50px;
+  height: 50px;
+  border-radius: 100%;
 }
